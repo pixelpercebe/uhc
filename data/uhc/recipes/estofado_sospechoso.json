@@ -1,0 +1,10 @@
+{
+    "type": "crafting_shapeless", 
+    "ingredients": 
+        [{"item": "minecraft:red_mushroom"},
+        {"item": "minecraft:brown_mushroom"},
+        {"item":"minecraft:bowl"},
+        {"item":"minecraft:obsidian"}],
+    "result":{"item": "minecraft:stone","count": 1}
+
+}
