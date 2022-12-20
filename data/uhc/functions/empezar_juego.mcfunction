@@ -1,1 +1,2 @@
 worldborder set 3000
+gamerule naturalRegeneration false
