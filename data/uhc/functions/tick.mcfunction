@@ -4,3 +4,4 @@ execute as @a[scores={Join=1..},tag=!playing] run scoreboard players set @s Join
 execute as @a[tag = !notnew] run function uhc:tptolobby
 execute as @a[scores = {killDragon=1..}] run function uhc:killed_dragon
 execute as @a[nbt={Inventory:[{id:"minecraft:suspicious_stew"}]}] run clear @s suspicious_stew
+tp @a[gamemode = spectator] 0 80 0

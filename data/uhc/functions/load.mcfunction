@@ -13,4 +13,4 @@ scoreboard objectives add killDragon killed:ender_dragon
 #establece el tamaño y centro del borde del mapa ademas de establecer el spawnpoint en una posicion concreta del mundo.
 worldborder center 0 0
 worldborder set 7000
-setworldspawn 3124 141 -40
+
