@@ -14,4 +14,3 @@ scoreboard objectives add killDragon killed:ender_dragon
 worldborder center 0 0
 worldborder set 7000
 setworldspawn 3124 141 -40
-
