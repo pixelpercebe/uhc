@@ -1,6 +1,6 @@
 #Every think in this file will only be called upon loading the pack/world
-clear
 
+clear
 #crea el scoreboard de vida que indica tu nivel de vida
 scoreboard objectives add health health
 scoreboard objectives modify health rendertype hearts
