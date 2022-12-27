@@ -10,7 +10,5 @@ scoreboard objectives setdisplay belowName health
 scoreboard objectives add Join minecraft.custom:minecraft.leave_game
 scoreboard objectives add killDragon killed:ender_dragon
 
-#establece el tamaño y centro del borde del mapa ademas de establecer el spawnpoint en una posicion concreta del mundo.
-worldborder center 0 0
-worldborder set 7000
+
 
